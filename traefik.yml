@@ -34,7 +34,7 @@ entryPoints:
 certificatesResolvers:
   myresolver:
     acme:
-      email: condezero@gmail.com
+      email: EMAIL_HERE
       storage: acme.json
       tlsChallenge: true
         # # used during the challenge
